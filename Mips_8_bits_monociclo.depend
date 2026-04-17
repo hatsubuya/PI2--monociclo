@@ -1,0 +1,52 @@
+# depslib dependency file v1.0
+1776453776 source:c:\users\sandr\onedrive\햞ea de trabalho\mips_8_bits_monociclo\main.c
+	<stdio.h>
+	<stdlib.h>
+	"head.h"
+	<windows.h>
+	<commdlg.h>
+	<windows.h>
+	<commdlg.h>
+
+1776272873 c:\users\sandr\onedrive\햞ea de trabalho\mips_8_bits_monociclo\head.h
+
+1776271647 source:c:\users\sandr\onedrive\햞ea de trabalho\mips_8_bits_monociclo\banco_reg.c
+	<stdio.h>
+	<stdlib.h>
+	"head.h"
+
+1776454218 source:c:\users\sandr\onedrive\햞ea de trabalho\mips_8_bits_monociclo\mem_ins.c
+	<stdio.h>
+	<stdlib.h>
+	"Head.h"
+
+1776454218 source:c:\users\sandr\onedrive\햞ea de trabalho\mips_8_bits_monociclo\controle.c
+	<stdio.h>
+	<stdlib.h>
+	"Head.h"
+
+1776454218 source:c:\users\sandr\onedrive\햞ea de trabalho\mips_8_bits_monociclo\mem_dat.c
+	<stdio.h>
+	<stdlib.h>
+	"Head.h"
+
+1776454218 source:c:\users\sandr\onedrive\햞ea de trabalho\mips_8_bits_monociclo\pc.c
+	<stdio.h>
+	<stdlib.h>
+	"Head.h"
+
+1776454218 source:c:\users\sandr\onedrive\햞ea de trabalho\mips_8_bits_monociclo\ula.c
+	<stdio.h>
+	<stdlib.h>
+	"Head.h"
+
+1776454218 source:c:\users\sandr\onedrive\햞ea de trabalho\mips_8_bits_monociclo\back.c
+	<stdio.h>
+	<stdlib.h>
+	"Head.h"
+
+1776454218 source:c:\users\sandr\onedrive\햞ea de trabalho\mips_8_bits_monociclo\asembly.c
+	<stdio.h>
+	<stdlib.h>
+	"Head.h"
+
